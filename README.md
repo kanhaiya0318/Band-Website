@@ -30,23 +30,4 @@ contact
 <br>
 
 
-### How to get the website on your local machine:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-```
-cd Band Website
-````
- - Run the index.html file and see the results
-
-<br>
-
-
 ## Happy Coding!
